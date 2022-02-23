@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from a general officer to a colonel, and several officers and soldiers under King James, now in the present service</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47985</idno>
+            <idno type="STC">Wing L1378A</idno>
+            <idno type="STC">ESTC R230778</idno>
+            <idno type="EEBO-CITATION">27367092</idno>
+            <idno type="OCLC">ocm 27367092</idno>
+            <idno type="VID">110084</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110084)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1725:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from a general officer to a colonel, and several officers and soldiers under King James, now in the present service</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: creased stained and torn, with loss of text. Best copy available for photographing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:110084:1"/>
+            <head>A LETTER from a General Officer to a Colonel, and ſeveral Officers and Soldier under King of JAMES, now in the peſent Service.</head>
+            <p>I Muſt own (noble Gentlemen and Fellow-Soldiers) that I was one of thoſe who were miſled as well as you by the Apprehenſions that our <hi>Religion</hi> was in danger, had not the Prince of <hi>O.</hi> come opportunely to redeem <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> But I can upon my Salvation ſay (and I hope ſo may many of us) I had no other Deſign in cloſing with his Troops, but only to have obtained a free <hi>Parliament,</hi> and ſuch <hi>Laws</hi> as would have ſecured our <hi>Religion</hi> and <hi>Property,</hi> which was pretended then to be invaded. It never entered into my Thoughts, neither had I the leaſt Suſ<g ref="char:EOLhyphen"/>picion, that the Prince aimed to <hi>dethrone</hi> his <hi>Father,</hi> or to <hi>embroil</hi> us in ſuch) an <hi>Expenſive War,</hi> to the utter impoveriſh<g ref="char:EOLhyphen"/>ment of our Country. 'Tis true, we Soldiers are not uſually Politicians, and therefore could not ſo eaſily pierce into the hidden Intentions of <hi>ambitions Men</hi> but we have ſo much Senſe as to remember how kind a Maſter K. <hi>James</hi> was to us, how duly he paid us, and yet never ſought a Penny from the Country for it: Whereas now, though in all our Quarters we hear nothing but Complaints, of <hi>want of Trade, ſcarcity of Money,</hi> and <hi>execeſſive Taxes,</hi> yet you know how ill <hi>We</hi> are paid. <hi>We,</hi> who have undergone as much Fateague in <hi>Ireland</hi> as ever Army did: <hi>We,</hi> who with the Expence of ſo much <hi>Blood, Poverty, Hunger, Fateague and Sickneſſ,</hi> have reduced that Kingdom; find now ſo little Regard had for us, that inſtead of a Recompenc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we can neither get Cloaths, nor Money, nor Horſes, for thoſe that we loſt in Service; and are forced to oppreſs our <hi>native Country</hi> for meer Subſiſtance. It repents me at my Soul, that we took ſo much Pains there to expel <hi>ſo good a King and Maſter,</hi> from a Country which was only left him for his <hi>Shelter;</hi> which ſhews we fought for Fighting-ſake, without reflecting on the Juſtice of the Cauſe, or the Conſe<g ref="char:EOLhyphen"/>quences of ſuch a Victory.</p>
+            <p>Now, methinks, our Eyes ought to beopened; for my part I can foreſee nothing but an <hi>inevitable Ruin</hi> to our Country, if we perſevere to reſiſt our <hi>gratious, indulgent Maſter.</hi> The <hi>Scene</hi> of <hi>War</hi> muſt be tranſlated from <hi>Flanders</hi> hither, and then my heart will bleed to think what Miſeries our poor <hi>Country</hi> muſt endure. We have ſeen, felt, and contributed to the Fate of poor <hi>di<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>reſſed, deſolate Ireland</hi>; but alaſs! your <hi>Pampered Iſland,</hi> as it is leſs uſed to Suf<g ref="char:EOLhyphen"/>ferings, will find ſmaller Sufferings n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re <hi>intollerable,</hi> and yet must ſuffer much more than they have done, if we re<g ref="char:EOLhyphen"/>pent not in time, and welcome back our <hi>Sovereign.</hi> It ſeems he has taken a Reſolution to come with a conſiderable Force of his <hi>own Subjects,</hi> intermixt with Strangers, to recover his Right; It behoves us then to conſider ſeriouſly, Why <hi>We</hi> ſhould oppoſe him? can <hi>We</hi> expect any pay from our preſent Riders (I call them ſo, who make us like ſo many tame Aſſes bear every Bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>then) when moſt of the Nations Money is ſent to ſupport the <hi>Confederates</hi>? Have <hi>We</hi> not found, by <hi>woful Experince</hi> that none are <hi>looked upon, preferred,</hi> or <hi>paid,</hi> but <hi>Danes, Brandenburghers,</hi> and our <hi>Hogen Mogen Dutch,</hi> and that <hi>We Engliſh men</hi> can get no Advancement, unleſs by the Intereſt of theſe <hi>Foreigners</hi>? You ſee how far <hi>We</hi> are from being <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rusted in our <hi>native Country,</hi> where <hi>We</hi> might be merciful in our defence of it, and ſpare the <hi>Stores,</hi> the <hi>Weals,</hi> and <hi>Blood</hi> of our <hi>Friends</hi> and <hi>Relations</hi>; when <hi>We</hi> muſt all be driven on <hi>Ship-bo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d</hi> (though 'tis contrary to the Lavs of <hi>England,</hi> there being now no Martial Law in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) which occaſioned many of our Fel<g ref="char:EOLhyphen"/>low-Soldiers to ſhoot to Death their own Comrades for only deſiring their Pay, and ſent to fight the <hi>Confederates Quarrel in Flanders,</hi> to make <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om for <hi>Twenty thouſand Foreigners,</hi> who are now about to be purchaſed with <hi>our very Pay,</hi> at no leſs <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> than <hi>Three hundred and fifty thouſand Pound</hi>; to <hi>come</hi> and <hi>harraſ</hi> our <hi>Country,</hi> and <hi>deſtroy</hi> and <hi>burn</hi> what they cannot <hi>defend,</hi> that if <hi>they</hi> cannot, <hi>their</hi> Enemies alſo may not be better for it, but the <hi>Country deſolate.</hi> Whereas we know K. <hi>James</hi> h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s a true <hi>English Soul,</hi> and a true <hi>compaſſionate Tenderneſs</hi> for his <hi>Country.</hi> All he deſires is <hi>Liberty</hi> to All, that All <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay live in <hi>Peace</hi> and <hi>Plenty</hi>; whilſt K. <hi>W.</hi> ſets his whole mind to ſupport the <hi>Dutch,</hi> to make them our <hi>Maſters,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd give away our <hi>Bread</hi> and <hi>Traffique</hi> from us.</p>
+            <p>Let us then at laſt be <hi>Engliſh-men,</hi> Lovers of our <hi>Country,</hi> and of our <hi>lawful, kind, and bountiful King,</hi> and nothing will be wanting to us. We ſhall have <hi>Honour, Peace,</hi> and <hi>Plenty,</hi> but above all a <hi>Quiet Conſcience,</hi> if we return to our <hi>Duty,</hi> and ſave our nat<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>Country</hi> from <hi>ruin</hi> and <hi>deſolation.</hi> You cannot but ſee the Country deſires, and juſtly deſerves it at our hands. Th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> expect, that as we were the firſt who gave the Prince of O. this Advantage to rule us with a <hi>Rod of Iron,</hi> and la<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> away our <hi>Gold</hi> and <hi>Silver</hi> amongſt his <hi>Foreigners</hi>; ſo we ſhould be the firſt to aſſiſt K. <hi>James</hi> to return without a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Bloodſhed.</hi> He has many Friends, and every Day gains him more; and however we may fool our ſelves wi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the vain hopes of K.<hi>W.</hi> carrying us into the heart of <hi>France,</hi> and keeping up the <hi>Conſederacy,</hi> neither the one, n<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the other, can ſucceed. <hi>France</hi> is too ſtrong for us to attaque it; and the <hi>Confederacy</hi> too weak to ſubſiſt much l<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ger. It muſt break, and if now we ſhould be ſo Barbarous to oppoſe our <hi>old Maſter,</hi> then he will be able to come with much more Force than we can reſiſt; and we ſhall neither have the Credit, nor the Comfort of being <hi>inſtrum<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>al</hi> to ſuch a <hi>Bleſſing.</hi>
+            </p>
+            <p>Let us there there<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e <hi>at his firſt Appearance</hi> ſhew our ſelves true <hi>English-men,</hi> own our <hi>King,</hi> own our <hi>Law,</hi> own our <hi>Country</hi> and K<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>, and not fight <hi>Dutch</hi> Quarrels to make our ſelves the Laughing Stock of all Nations; or as ſo many Fools, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o in the midſt of ſo clear a Light, could not ſee our own, and our <hi>Nations Intereſt.</hi>
+            </p>
+            <p>I write no<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is out of any Diſcontent. I have had as much Favour from K. <hi>W.</hi> as any other Officer. I have not been dealt w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> as my Lord <hi>Marlborough,</hi> or my Lord <hi>Torrington,</hi> or any of thoſe other <hi>Engliſh</hi> Officers who were lately Seize<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Impriſoned (we are certain) for no other Reaſons, but to prefer Strangers to their Commands, and it may <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rtly be our Fate : But I have a true Senſe and Feeling of the <hi>Miſeries</hi> our <hi>Country</hi> muſt ſuffer, if we oppoſe ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wful King,</hi> which muſt cauſe more and more Supplies to be ſent on both ſides, and ſo make our <hi>Country</hi> an <hi>Acelde<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> or <hi>Field of Blood</hi>; whereas we now of the <hi>Soldiery,</hi> if we have honeſt <hi>English</hi> Hearts, may turn the Scale, make ou<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lves and all our Poſterity happy, and reſtore <hi>Peace</hi> and <hi>Plenty</hi> to <hi>old England</hi> and have all our <hi>Arrears</hi> paid us <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or K. <hi>James</hi> truly loves his <hi>Country,</hi> and its <hi>Peace</hi> and <hi>Welfare,</hi> and ever was the beſt Maſter to his Soldiers of any <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ce in <hi>Europe</hi>; and we may be aſſured that whatever <hi>Foreigners</hi> our true and lawful king brings in (if we ſhew o<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſelves <hi>Juſt</hi> and <hi>Loyal</hi>) will ſoon be honourably Diſmiſſed, and <hi>We</hi> employed to regain our <hi>Trade,</hi> and re<g ref="char:EOLhyphen"/>pair t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Loſſes</hi> this <hi>Dutch Stratagem</hi> hath brougth upon us. K. <hi>W.</hi> is wholy theirs, and they for themſelves: Why ſhou<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot <hi>We</hi> be for <hi>our</hi> ſelves, as our <hi>King</hi> is for <hi>us.</hi> If we joyn as <hi>Brethren</hi> and honeſt <hi>Engliſh-men,</hi> we need not fe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbitious of Self-ended Courtiers, nor Dutch Councils.</hi> We have the Countries <hi>Hearts</hi> and <hi>Wiſhes,</hi> and they will fully <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> for freeing them from endleſs <hi>Taxes,</hi> and ſtill <hi>growing Miſeries.</hi>
+            </p>
+            <p>N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble <hi>Friends, Fellow-Soldiers</hi> in <hi>Arms</hi>; I write not this but upon moſt ſerious Deliberation, not only with my ſelf, but with the beſt of our Companions, and the moſt Eminent amongſt the <hi>Nobility</hi> and <hi>Gentry</hi> of <hi>England,</hi> wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tily concur with me in <hi>their Wiſhes,</hi> and will alſo concur with us with their <hi>Lives</hi> and <hi>Fortunes,</hi> if we acquit <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur ſel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es like <hi>honeſt true Engliſh-men,</hi> and Lovers of our Country. Which with them, and (I hope) with you, I <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſolve to do, to the utmoſt of my Power, who am, <hi>Noble Gentlemen, and Fellow-Soldiers, Yours in all Sincerity.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
